@@ -37,14 +37,14 @@ is facing up.
 * User can see a discard pile
 * User can shuffle the cards in the deck
 * User can sort cards by suit or value
-* User can remove a random card from the deck and add it to the top of the discard pile
-* User can remove a random card from the deck and add it back into the deck in a random order
-* User can look up the index of any card in the deck (e.g. search for "queen of hearts")
+* User can remove the top card from the deck and add it to the top of the discard pile
+* User can remove the top card from the deck and add it back into the deck in a random order
+* User can look up and display the index of any card in the deck (e.g. search for "queen of hearts")
 * User can choose whether Aces are high or low
-* User can riffle shuffle the cards in the deck (perfect shuffle - alternating cards 1-1 from each stack)
 
 ### Bonus Challenges
 If you *really* want to show off, complete one or more of the following:
+* User can riffle shuffle the cards in the deck (perfect shuffle - alternating cards 1-1 from each stack)
 * Build your own cards in raw CSS
 * Animate deck actions
 * Drag-and-drop UI
