@@ -60,6 +60,5 @@ Please answer the following in no more than a few sentences:
 * What was your method for completing this exercise? Did you plan ahead or jump right in?
 * What was the most challenging part of this exercise and why?
 * What was the easiest part of this exercise and why?
-* What was your favorite part of this exercise and why?
 * Did you have to do any research while you were working? Where did you look for answers?
 * If you had to scrap the project and start over, what would you do differently next time?
